@@ -146,4 +146,5 @@ I practice in Sublime Text, Visual Studio, Borland Builder, DirectX.
 ![Sertefic](https://user-images.githubusercontent.com/60657582/74583918-94bcf680-4fdd-11ea-889c-ae9b6972a974.jpg)
 ![Sertefic1](https://user-images.githubusercontent.com/60657582/74583919-97b7e700-4fdd-11ea-9f6b-31b6a2011826.jpg)
 
+
 I studied English at school.now I self-study from books on programming, ranobe and translate text in some games
