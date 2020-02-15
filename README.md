@@ -1,8 +1,8 @@
 # rsschool-cv
 ## Konstantin Bayborodov
 * Sora1988@gmail.com  
-* Skype SaberKrell 
-* Discord Atario
+* Skype: SaberKrell 
+* Discord: Atario
 
 I want to learn things that interest me like creating websites and developing games.Now I study programming books in my spare time and write a little in C++.
 
